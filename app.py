@@ -168,9 +168,9 @@ def send_message():
   </div>
   <footer class="footer">
     <p>© Made By MonxTer </p>
-    <p> MonxTer Rullex  <a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p> MonxTer Rullex  <a href="https://www.facebook.com/Loffar.monxter.inside?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917668337116" class="whatsapp-link">
+      <a href="https://wa.me/+923703402123" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
@@ -202,4 +202,3 @@ def stop_task():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-        

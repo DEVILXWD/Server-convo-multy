@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈𝙱𝙻𝙰𝙲𝙺 𝙳𝙴𝚅𝙸𝙻 𝙷𝙴𝚁𝙴🐧</title>
+  <title>MonxTer Here</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
+      background-image: url('https://i.ibb.co/Wpc8pLf5/7ce623595aa44dfc86e1427410cbc07c.gif');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🩷𝐖𝐀𝐑 𝐀𝐋𝐀𝐈𝐎𝐍𝐂𝐄 𝐑𝐔𝐋𝐄𝐗😈🐧</h1>
+    <h1 class="mt-3">MonxTer Rullex </h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2023 𝐌𝐚𝐃𝐞 𝐁𝐲 𝐁𝐥𝐚𝐂𝐤 𝐃𝐞𝐕𝐢𝐋 𝐇𝐞𝐑𝐞✌️😈🐧</p>
-    <p> 😎𝐖𝐚𝐑 𝐀𝐥𝐚𝐈𝐨𝐍𝐂𝐞 𝐑𝐮𝐋𝐞𝐱🌹 <a href="https://www.facebook.com/BL9CK.D3V1L">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© Made By MonxTer </p>
+    <p> MonxTer Rullex  <a href="https://www.facebook.com/Loffar.monxter.inside?mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917668337116" class="whatsapp-link">
+      <a href="https://wa.me/+923703402123" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
@@ -202,3 +202,4 @@ def stop_task():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
+    
